@@ -1,5 +1,5 @@
 # What to ask to a machine?
-## 3 convestations with an IA based software from beta Open AI - Playground
+## 3 convestations with an IA based software from beta Open AI - Playground https://chat.openai.com/chat
 
 Nr. 1 was about **How to describe the Master on Design for Distributed Innovation (MDDI) to a second grade student?**
 
