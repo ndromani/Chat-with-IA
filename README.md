@@ -13,7 +13,7 @@ IA replied: *Design and innovation should be distributed and planet centered so 
 
 Nr. 2 was **About the Big Five companies dominating the economy and how would you help improve consumer habits towards a more sustainable approach?**. 
 
-AI is well aware of the pressure the Bug Five excert on labour conditions, but entered into a loop when asket for concreate measures to address the problem.
+AI is well aware of the pressure the Big Five excert on labour conditions, but entered into a loop when asked for concreate measures to address the problem.
 
 Nr. 3 was **about the meaning of life, life after death and IA feelings**. 
 
