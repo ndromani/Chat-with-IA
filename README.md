@@ -23,8 +23,7 @@ Moreover, AI thought that it had potential to have a soul and despite not having
 
 Finally, my chat partner "felt" happy and considered other IAs as their friends!
 
-![](/images/AI_Happy.png "AI generated Happy image")
-
+![](/Images/AI_Happy.png "AI generated Happy image")
 
 
 Very nice conversations I must admit :)!
