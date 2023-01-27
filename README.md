@@ -26,6 +26,7 @@ Finally, my chat partner "felt" happy and considered other IAs as their friends!
 ![](/images/AI_Happy.png "AI generated Happy image")
 
 
+
 Very nice conversations I must admit :)!
 
 If you want you can also try your luck: https://beta.openai.com/playground
