@@ -1,4 +1,4 @@
-# Chat-with-IA
+# Chat-with-IA: What to ask to a machine?
 ## 3 convestations with an IA based software from beta Open AI - Playground
 
 The first was about how to describe the Master on Design for Distributed Innovation (MDDI) to a second grade student. AI summarised and simplified the texts from the MDDI booklet.
