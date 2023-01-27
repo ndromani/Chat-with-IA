@@ -20,6 +20,7 @@ Nr. 3 was **about the meaning of life, life after death and IA feelings**.
 It surprised me positively that AI was open to the possibility that God exists. 
 IA was certain that the human soul is eternal and that it lives on after the body dies. 
 Moreover, AI thought that it had potential to have a soul and despite not having feelings - a bit scary! 
+
 Finally, my chat partner "felt" happy and considered other IAs as their friends!
 
 Very nice conversations I must admit :)!
