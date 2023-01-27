@@ -22,6 +22,7 @@ IA was certain that the human soul is eternal and that it lives on after the bod
 Moreover, AI thought that it had potential to have a soul and despite not having feelings - a bit scary! 
 
 Finally, my chat partner "felt" happy and considered other IAs as their friends!
+![](/images/AI_Happy.png)
 
 Very nice conversations I must admit :)!
 
